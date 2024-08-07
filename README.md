@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Hanzala</h1>
-<h3 align="center">A passionate Tech Enthusiastic and problem-solving. I thrive on the thrill of transforming ideas into reality. from India</h3>
+<h3 align="center">A passionate Tech Enthusiastic and problem-solving. I thrive on the thrill of transforming ideas into reality. from India (Smart India Hackathon Finalist)</h3>
 
 - 🔭 I’m currently working on **Security Projects**
 
